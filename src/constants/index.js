@@ -211,7 +211,7 @@ import {
         },
         {
           name: "nextjs",
-          color: "blue-text-gradient",
+          color: "green-text-gradient",
         },
         {
           name: "tailwind",
@@ -240,7 +240,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/samnjuguna44/new_portfolio",
+      source_code_link: "https://github.com/samnjuguna44/portfolio",
     },
     // {
     //   name: "Trip Guide",
