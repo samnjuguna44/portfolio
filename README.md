@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Portfolio Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Portfolio Project created using React and animations done using Three Js
 
 ## Available Scripts
 
