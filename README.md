@@ -2,6 +2,8 @@
 
 Portfolio Project created using React and animations done using Three Js
 
+![Portfolio](src/portfolio.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
