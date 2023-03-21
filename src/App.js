@@ -12,6 +12,8 @@ import {
   StarsCanvas,
 } from "./components";
 
+import { inject } from '@vercel/analytics';
+
 
 
 const App = () => {
@@ -37,4 +39,6 @@ const App = () => {
 };
 
 export default App;
+
+inject();
 
