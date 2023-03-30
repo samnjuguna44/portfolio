@@ -26,6 +26,7 @@ import {
     tripguide,
     skylogo,
     threejs,
+    jumialogo,
   } from "../assets";
   
   export const navLinks = [
@@ -129,21 +130,25 @@ import {
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
+        "Followed SDLC best practices within Agile environment to produce rapid iterations for clients.",
+        "Contributed to projects within Scrum project management environments.",
+        "Teamed on user-centric design strategy in translation of UX and business requirements into coded solutions.",
       ],
     },
-    // {
-    //   title: "React Native Developer",
-    //   company_name: "Tesla",
-    //   icon: tesla,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+    {
+      title: "Front End Developer",
+      company_name: "Jumia",
+      icon: jumialogo,
+      iconBg: "#E6DEDD",
+      date: "Feb 2016 - Sep 2018",
+      points: [
+        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices..",
+        "Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness.",
+        "Integrated web applications for mobile platforms into front end environment.",
+        "Identified bottlenecks and bugs and devised solutions.",
+        "Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness.",
+      ],
+    },
     // {
     //   title: "Web Developer",
     //   company_name: "Shopify",
