@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import live from "./live.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -33,6 +34,8 @@ import portfolio from "./portfolio.png";
 import ecommerce from "./ecommerce.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import deployed from "./deployed.jpg";
+import invoice from "./invoice.png";
 
 export {
   logooo,
@@ -41,6 +44,8 @@ export {
   mobile,
   web,
   github,
+  invoice,
+  live,
   menu,
   close,
   css,
@@ -58,6 +63,7 @@ export {
   threejs,
   meta,
   shopify,
+  deployed,
   starbucks,
   skylogo,
   jumialogo,

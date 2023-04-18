@@ -27,6 +27,7 @@ import {
     skylogo,
     threejs,
     jumialogo,
+    invoice,
   } from "../assets";
   
   export const navLinks = [
@@ -225,6 +226,25 @@ import {
       ],
       image: ecommerce,
       source_code_link: "https://github.com/samnjuguna44/ecommerce-website",
+      source_code_live: "https://ecommerce-website-six.vercel.app/",
+    },
+    {
+      name: "Invoice Maker",
+      description:
+        "Web based platform created using React and Tailwind CSS that allows users to create invoices for their businesses or for personal use.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: invoice,
+      source_code_link: "https://github.com/samnjuguna44/invoicer-app",
+      source_code_live: "https://invoicer-app-vert.vercel.app/",
     },
     {
       name: "Portfolio",
@@ -246,6 +266,7 @@ import {
       ],
       image: portfolio,
       source_code_link: "https://github.com/samnjuguna44/portfolio",
+      source_code_live: "https://portfolio-rho-bice-51.vercel.app/",
     },
     // {
     //   name: "Trip Guide",
