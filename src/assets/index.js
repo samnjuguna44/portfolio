@@ -36,6 +36,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import deployed from "./deployed.jpg";
 import invoice from "./invoice.png";
+import car from "./car.PNG";
 
 export {
   logooo,
@@ -73,4 +74,5 @@ export {
   portfolio,
   jobit,
   tripguide,
+  car
 };

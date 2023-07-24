@@ -28,6 +28,7 @@ import {
     threejs,
     jumialogo,
     invoice,
+    car
   } from "../assets";
   
   export const navLinks = [
@@ -245,6 +246,28 @@ import {
       image: invoice,
       source_code_link: "https://github.com/samnjuguna44/invoicer-app",
       source_code_live: "https://invoicer-app-vert.vercel.app/",
+    },
+    {
+      name: "Car Rental",
+      description:
+        "Car Showcase app that allows users to find, rent or book a car.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "typescript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: car,
+      source_code_link: "https://github.com/samnjuguna44/car-showcase-app",
+      source_code_live: "https://car-showcase-app-liart.vercel.app/",
     },
     {
       name: "Portfolio",
