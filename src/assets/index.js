@@ -28,6 +28,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import skylogo from "./company/skylogo.png";
 import jumialogo from "./company/jumialogo.png";
+import ramtons from "./company/ramtons.png";
 
 import carrent from "./carrent.png";
 import portfolio from "./portfolio.png";
@@ -68,6 +69,7 @@ export {
   starbucks,
   skylogo,
   jumialogo,
+  ramtons,
   tesla,
   carrent,
   ecommerce,

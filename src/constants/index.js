@@ -25,6 +25,7 @@ import {
     ecommerce,
     tripguide,
     skylogo,
+    ramtons,
     threejs,
     jumialogo,
     invoice,
@@ -122,7 +123,22 @@ import {
   
   const experiences = [
     {
-      title: "Front-End Developer",
+      title: " Front-End Developer",
+      company_name: "Ramtons",
+      icon: ramtons,
+      iconBg: "#FF0000",
+      date: "Contract September 2023 - To Date",
+      points: [
+        "Converting high-fidelity Figma designs into code",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Working with RESTful APIs and client-server architecture",
+        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Following SDLC best practices within Agile environment to produce rapid iterations for clients.",
+        "Working using React, Next.js and TypeScript",
+      ],
+    },
+    {
+      title: "Junior Front End Developer",
       company_name: "Sky Garden",
       icon: skylogo,
       iconBg: "#383E56",
@@ -135,20 +151,6 @@ import {
         "Followed SDLC best practices within Agile environment to produce rapid iterations for clients.",
         "Contributed to projects within Scrum project management environments.",
         "Teamed on user-centric design strategy in translation of UX and business requirements into coded solutions.",
-      ],
-    },
-    {
-      title: "Front End Developer",
-      company_name: "Jumia",
-      icon: jumialogo,
-      iconBg: "#E6DEDD",
-      date: "Feb 2016 - Sep 2018",
-      points: [
-        "Collaborated with stakeholders during development processes to confirm creative proposals and design best practices..",
-        "Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness.",
-        "Integrated web applications for mobile platforms into front end environment.",
-        "Identified bottlenecks and bugs and devised solutions.",
-        "Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to maintain web presence effectiveness.",
       ],
     },
     // {
