@@ -141,7 +141,7 @@ import {
       title: "Junior Front End Developer",
       company_name: "Sky Garden",
       icon: skylogo,
-      iconBg: "#383E56",
+      iconBg: "#00D100",
       date: "January 2019 - October 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
